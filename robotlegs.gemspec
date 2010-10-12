@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   # s.platform    = Gem::Platform::RUBY
   # s.authors     = ["TODO: Write your name"]
   s.email       = ["amoslanka@gmail.com"]
-  s.homepage    = %q{http://www.github.com/amoslanka/sprout-robotlegs}
+  s.homepage    = %q{http://www.github.com/amoslanka/sprout-robotlegs-framework}
   s.summary     = %q{The Robotlegs source wrapped in a Sprout::Specification for implementation into a sprout project and Gem::Specification for distribution as a gem.}
   # s.description = %q{TODO: Write a gem description}
 
