@@ -1,7 +1,7 @@
 
 h1. The Robotlegs Sprout Gem
 
-h4. requires sprout, v >= 1.0.26.pre
+h4. requires sprout, v >= 1.0.x.pre
 
 	Robotlegs ActionScript 3 source wrapped in a Sprout::Specification for implementation into a sprout project and Gem::Specification for distribution as a gem.
 	
