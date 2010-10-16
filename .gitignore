@@ -1,3 +1,15 @@
 pkg/*
 *.gem
 .bundle
+*.tmproj
+
+bin/*
+doc/*
+pkg/*
+docs/*
+vendor/*
+
+Thumbs.db
+.DS_Store
+
+Gemfile.lock
